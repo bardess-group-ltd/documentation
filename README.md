@@ -36,17 +36,17 @@ The repository is organized into sections for easy navigation. Below is the stru
 /docs/
    ├── installation/
    │   ├── installation_guide.md
-   ├── api/
-   │   ├── api_reference.md
    ├── workflows/
    │   ├── coding_standards.md
    │   ├── development_workflow.md
+   ├── customer_repository/
+   │   ├── customer_name/
+   │   │   ├── development_workflow.md
 README.md
 ```
 
 ### Key Sections:
 - **/installation/**: Contains all setup guides for different projects and environments.
-- **/api/**: Detailed API documentation and usage examples.
 - **/workflows/**: Best practices, coding standards, and internal development workflows.
 
 Each directory contains markdown files for individual topics. Feel free to explore based on your area of interest.
