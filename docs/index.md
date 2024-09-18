@@ -46,8 +46,8 @@ README.md
 ```
 
 ### Key Sections:
-- **/installation/**: Contains all setup guides for different projects and environments.
-- **/workflows/**: Best practices, coding standards, and internal development workflows.
+- **Installation**: Contains all setup guides for different projects and environments.
+- **Workflows**: Best practices, coding standards, and internal development workflows.
 
 Each directory contains markdown files for individual topics. Feel free to explore based on your area of interest.
 
@@ -57,9 +57,9 @@ Each directory contains markdown files for individual topics. Feel free to explo
 
 ### Quick Links:
 
-- [Installation Guide](./docs/installation/installation_guide_template.md)
-- [Coding Standards](./docs/workflows/coding_standards_template.md)
-- [Development Workflow](./docs/workflows/development_workflow_template.md)
+- [Installation Guide Template](./installation/installation_guide_template.md)
+- [Coding Standards Template](./workflows/coding_standards_template.md)
+- [Development Workflow Templates](./workflows/development_workflow_template.md)
 
 ### Search Functionality:
 - If you're using GitHub Pages or a static site generator like **MkDocs** or **Docusaurus**, you can use the search feature on the documentation website to quickly find what you need.

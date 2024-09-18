@@ -1,5 +1,5 @@
 
-# Coding Standards
+# Coding Standards Template
 
 This document outlines the coding standards for [Organization Name].
 

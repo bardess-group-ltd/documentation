@@ -1,5 +1,5 @@
 
-# Development Workflow
+# Development Workflow Template
 
 This document explains the development workflow for [Organization Name].
 
