@@ -1,5 +1,5 @@
 
-# Installation Guide
+# Installation Guide Template
 
 This guide will walk you through the installation of [Project Name].
 

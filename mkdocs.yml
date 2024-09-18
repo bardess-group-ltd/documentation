@@ -8,9 +8,17 @@ site_url: "https://bardess-group-ltd.github.io/documentation/"
 theme:
   name: material  # You can use the 'readthedocs' theme or another if you prefer
 
-nav:
-  - Home: index.md
-  - Documentation: /docs/
+plugins:
+  - search
+  - awesome-pages
+
+# nav:
+#   - Home: index.md
+#   - Documentation: ./docs
 
 # Build settings (optional)
 site_dir: site
+
+
+extra_css:
+  - css/custom.css  # Optional custom CSS
