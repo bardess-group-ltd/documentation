@@ -1,0 +1,20 @@
+# Project Information
+site_name: "Your Project Documentation"
+site_description: "Comprehensive documentation for Your Project"
+site_author: "Your Name or Organization"
+site_url: "https://your-site-url.com"
+
+# Configuration
+theme:
+  name: material  # You can use the 'readthedocs' theme or another if you prefer
+
+# Documentation Structure
+nav:
+  - Home: index.md
+  - Installation Guide: docs/installation_guide.md
+  - API Reference: docs/api_reference.md
+  - Coding Standards: docs/coding_standards.md
+  - Development Workflow: docs/development_workflow.md
+
+# Build settings (optional)
+site_dir: site
