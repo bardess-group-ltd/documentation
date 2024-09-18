@@ -44,4 +44,4 @@ Once your pull request is approved, it will be merged into the `main` branch.
 
 - Code must be reviewed by at least one team member.
 - Ensure all unit tests pass before merging.
-- Follow the coding standards outlined in the [Coding Standards](./coding_standards.md) document.
+
