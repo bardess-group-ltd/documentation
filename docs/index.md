@@ -135,9 +135,6 @@ Anyone in the organization can contribute to this repository. We encourage contr
 ### **Q2: How do I request a new section or guide?**
 If you feel a certain section or guide is missing, please open an issue in the repository, and we will review the request.
 
-### **Q3: What are the guidelines for documentation?**
-Please follow our [markdown standards](./docs/workflows/markdown_standards.md) and ensure your contributions are clear, concise, and well-formatted.
-
 ---
 
 ## **Support and Contact**

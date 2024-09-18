@@ -55,12 +55,6 @@ Each directory contains markdown files for individual topics. Feel free to explo
 
 ## **How to Navigate the Documentation**
 
-### Quick Links:
-
-- [Installation Guide Template](./installation/installation_guide_template.md)
-- [Coding Standards Template](./workflows/coding_standards_template.md)
-- [Development Workflow Templates](./workflows/development_workflow_template.md)
-
 ### Search Functionality:
 - If you're using GitHub Pages or a static site generator like **MkDocs** or **Docusaurus**, you can use the search feature on the documentation website to quickly find what you need.
 
@@ -141,8 +135,6 @@ Anyone in the organization can contribute to this repository. We encourage contr
 ### **Q2: How do I request a new section or guide?**
 If you feel a certain section or guide is missing, please open an issue in the repository, and we will review the request.
 
-### **Q3: What are the guidelines for documentation?**
-Please follow our [markdown standards](./docs/workflows/markdown_standards.md) and ensure your contributions are clear, concise, and well-formatted.
 
 ---
 
