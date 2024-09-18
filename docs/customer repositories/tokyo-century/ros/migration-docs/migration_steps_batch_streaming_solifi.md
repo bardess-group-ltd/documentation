@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document outlines the steps required to migrate from batch data processing to streaming data processing in Databricks. The current batch processing setup for Solifi’s data from Kafka takes around 3–4 minutes to complete. By transitioning to a streaming data pipeline, we aim to process this data in near real-time. More about the process can be found [here](../code-workflow-docs/ros_source_streaming.md)
+This document outlines the steps required to migrate from batch data processing to streaming data processing in Databricks. The current batch processing setup for Solifi’s data from Kafka takes around 3–4 minutes to complete. By transitioning to a streaming data pipeline, we aim to process this data in near real-time. More about the process can be found
 
 
 ### Pre-migration Step
