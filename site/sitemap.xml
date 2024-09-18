@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://bardess-group-ltd.github.io/documentation/</loc>
+         <lastmod>2024-09-18</lastmod>
+    </url>
+    <url>
+         <loc>https://bardess-group-ltd.github.io/documentation/customer%20repositories/tokyo-century/ros/code-workflow-docs/ros_source_streaming/</loc>
+         <lastmod>2024-09-18</lastmod>
+    </url>
+    <url>
+         <loc>https://bardess-group-ltd.github.io/documentation/customer%20repositories/tokyo-century/ros/migration-docs/migration_steps_batch_streaming_solifi/</loc>
+         <lastmod>2024-09-18</lastmod>
+    </url>
+    <url>
+         <loc>https://bardess-group-ltd.github.io/documentation/installation/installation_guide_template/</loc>
+         <lastmod>2024-09-18</lastmod>
+    </url>
+    <url>
+         <loc>https://bardess-group-ltd.github.io/documentation/workflows/coding_standards_template/</loc>
+         <lastmod>2024-09-18</lastmod>
+    </url>
+    <url>
+         <loc>https://bardess-group-ltd.github.io/documentation/workflows/development_workflow_template/</loc>
+         <lastmod>2024-09-18</lastmod>
+    </url>
+</urlset>
