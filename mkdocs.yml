@@ -1,8 +1,8 @@
 # Project Information
-site_name: "Your Project Documentation"
+site_name: "Bardess Project Documentation"
 site_description: "Comprehensive documentation for Your Project"
-site_author: "Your Name or Organization"
-site_url: "https://your-site-url.com"
+site_author: "Bardess A Cleartelligence Company"
+site_url: "https://bardess-group-ltd.github.io/documentation/"
 
 # Configuration
 theme:
