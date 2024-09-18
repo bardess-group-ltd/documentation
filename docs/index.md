@@ -55,12 +55,6 @@ Each directory contains markdown files for individual topics. Feel free to explo
 
 ## **How to Navigate the Documentation**
 
-### Quick Links:
-
-- [Installation Guide Template](./installation/installation_guide_template.md)
-- [Coding Standards Template](./workflows/coding_standards_template.md)
-- [Development Workflow Templates](./workflows/development_workflow_template.md)
-
 ### Search Functionality:
 - If you're using GitHub Pages or a static site generator like **MkDocs** or **Docusaurus**, you can use the search feature on the documentation website to quickly find what you need.
 
