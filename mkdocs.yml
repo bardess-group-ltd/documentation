@@ -8,13 +8,9 @@ site_url: "https://bardess-group-ltd.github.io/documentation/"
 theme:
   name: material  # You can use the 'readthedocs' theme or another if you prefer
 
-# Documentation Structure
 nav:
   - Home: index.md
-  - Installation Guide: docs/installation_guide.md
-  - API Reference: docs/api_reference.md
-  - Coding Standards: docs/coding_standards.md
-  - Development Workflow: docs/development_workflow.md
+  - Documentation: /docs/
 
 # Build settings (optional)
 site_dir: site
