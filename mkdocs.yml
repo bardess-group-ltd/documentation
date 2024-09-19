@@ -4,17 +4,15 @@ site_description: "Comprehensive documentation for Your Project"
 site_author: "Bardess A Cleartelligence Company"
 site_url: "https://bardess-group-ltd.github.io/documentation/"
 
-# Configuration
 theme:
-  name: material  # You can use the 'readthedocs' theme or another if you prefer
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
 
 plugins:
   - search
   - awesome-pages
-
-# nav:
-#   - Home: index.md
-#   - Documentation: ./docs
 
 # Build settings (optional)
 site_dir: site
