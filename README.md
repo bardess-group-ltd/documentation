@@ -123,7 +123,7 @@ If you want to contribute locally or view the documentation on your machine, fol
    npm start
    ```
 
-4. Open the documentation in your browser at `http://localhost:8000` or `http://localhost:3000`.
+4. Open the documentation in your browser at `[localhost](http://127.0.0.1:8000/documentation)`.
 
 ---
 
